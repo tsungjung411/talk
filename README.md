@@ -8,4 +8,6 @@
 
 [番外篇第５集：應用-tensorflow-於儲蓄險](../../wiki/番外篇第５集：應用-tensorflow-於儲蓄險)
 
+[番外篇第６集：透過 Tensorflow，包你當上包租公、包租婆](../../wiki/%E7%95%AA%E5%A4%96%E7%AF%87%E7%AC%AC%EF%BC%96%E9%9B%86%EF%BC%9A%E9%80%8F%E9%81%8E-Tensorflow%EF%BC%8C%E5%8C%85%E4%BD%A0%E7%95%B6%E4%B8%8A%E5%8C%85%E7%A7%9F%E5%85%AC%E3%80%81%E5%8C%85%E7%A7%9F%E5%A9%86)
+
 
